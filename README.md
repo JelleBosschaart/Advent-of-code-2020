@@ -5,3 +5,4 @@ https://adventofcode.com/2020
 
 Please be aware that this has been done for fun an practise.
 
+I have done these challanges in python3, jupyter notebook.
